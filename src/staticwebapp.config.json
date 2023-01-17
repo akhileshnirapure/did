@@ -1,0 +1,4 @@
+{
+    "route": "/.well-known/did.json",
+    "rewrite": "/did.json"
+}
